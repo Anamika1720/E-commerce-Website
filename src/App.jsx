@@ -3,6 +3,7 @@ import Cart from "./Components/Cart/Cart";
 import ProductList from "./Components/Products/ProductList";
 import Navigation from "./Components/Navigation/Navigation";
 import HomePage from "./Components/Home/Home";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
